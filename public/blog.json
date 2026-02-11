@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://example.com/images/react-hooks.jpg",
+    "title": "Understanding React Hooks Deeply",
+    "author": "Mishu Rahman",
+    "author_img": "https://example.com/images/author1.jpg",
+    "posted_date": "2026-02-01",
+    "reading_time": 8,
+    "hashtags": ["react", "javascript", "frontend"]
+  },
+  {
+    "id": 2,
+    "cover": "https://example.com/images/tailwind-design.jpg",
+    "title": "Mastering Responsive Design with Tailwind CSS",
+    "author": "Nusrat Jahan",
+    "author_img": "https://example.com/images/author2.jpg",
+    "posted_date": "2026-01-28",
+    "reading_time": 6,
+    "hashtags": ["tailwind", "css", "responsive"]
+  },
+  {
+    "id": 3,
+    "cover": "https://example.com/images/javascript-es6.jpg",
+    "title": "Modern JavaScript ES6 Features Explained",
+    "author": "Tanvir Hasan",
+    "author_img": "https://example.com/images/author3.jpg",
+    "posted_date": "2026-01-20",
+    "reading_time": 10,
+    "hashtags": ["javascript", "es6", "programming"]
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/images/web-performance.jpg",
+    "title": "Improving Web Performance for Better UX",
+    "author": "Sadia Islam",
+    "author_img": "https://example.com/images/author4.jpg",
+    "posted_date": "2026-01-15",
+    "reading_time": 7,
+    "hashtags": ["performance", "webdev", "optimization"]
+  },
+  {
+    "id": 5,
+    "cover": "https://example.com/images/git-github.jpg",
+    "title": "Git & GitHub Workflow for Beginners",
+    "author": "Rakib Ahmed",
+    "author_img": "https://example.com/images/author5.jpg",
+    "posted_date": "2026-01-10",
+    "reading_time": 5,
+    "hashtags": ["git", "github", "version-control"]
+  }
+]
