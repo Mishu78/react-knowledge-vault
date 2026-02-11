@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "cover": "https://example.com/images/react-hooks.jpg",
+    "cover": "https://i.ibb.co.com/zWN8YBwR/6528262.jpg",
     "title": "Understanding React Hooks Deeply",
     "author": "Mishu Rahman",
-    "author_img": "https://example.com/images/author1.jpg",
+    "author_img": "https://i.ibb.co.com/N267qj1k/young-woman-model-sitting-holding-book.jpg",
     "posted_date": "2026-02-01",
     "reading_time": 8,
     "hashtags": ["react", "javascript", "frontend"]
   },
   {
     "id": 2,
-    "cover": "https://example.com/images/tailwind-design.jpg",
+    "cover": "https://i.ibb.co.com/7dMFdDLR/7048312.jpg",
     "title": "Mastering Responsive Design with Tailwind CSS",
     "author": "Nusrat Jahan",
-    "author_img": "https://example.com/images/author2.jpg",
+    "author_img": "https://i.ibb.co.com/fdjZH4vw/laughing-woman-with-book.jpg",
     "posted_date": "2026-01-28",
     "reading_time": 6,
     "hashtags": ["tailwind", "css", "responsive"]
   },
   {
     "id": 3,
-    "cover": "https://example.com/images/javascript-es6.jpg",
+    "cover": "https://i.ibb.co.com/b5Hn62tw/7489233.jpg",
     "title": "Modern JavaScript ES6 Features Explained",
     "author": "Tanvir Hasan",
-    "author_img": "https://example.com/images/author3.jpg",
+    "author_img": "https://i.ibb.co.com/vx6cJM0v/medium-shot-cute-brunette-girl-reading.jpg",
     "posted_date": "2026-01-20",
     "reading_time": 10,
     "hashtags": ["javascript", "es6", "programming"]
   },
   {
     "id": 4,
-    "cover": "https://example.com/images/web-performance.jpg",
+    "cover": "https://i.ibb.co.com/zHbj035N/inspired-upbeat-dreamy-fascinated-redhead-girl-writing-down-interesting-lecture-smiling-gazi.jpg",
     "title": "Improving Web Performance for Better UX",
     "author": "Sadia Islam",
-    "author_img": "https://example.com/images/author4.jpg",
+    "author_img": "https://i.ibb.co.com/kV71KN8P/portrait-young-bearded-man-reading-book.jpg",
     "posted_date": "2026-01-15",
     "reading_time": 7,
     "hashtags": ["performance", "webdev", "optimization"]
   },
   {
     "id": 5,
-    "cover": "https://example.com/images/git-github.jpg",
+    "cover": "https://i.ibb.co.com/4RGkYjJd/sassy-creative-happy-charismatic-redhead-woman-teenager-hiding-face-red-notebook-smil-1.jpg",
     "title": "Git & GitHub Workflow for Beginners",
     "author": "Rakib Ahmed",
-    "author_img": "https://example.com/images/author5.jpg",
+    "author_img": "https://i.ibb.co.com/WvDwWtVj/thoughtful-woman-with-book-cafe.jpg",
     "posted_date": "2026-01-10",
     "reading_time": 5,
     "hashtags": ["git", "github", "version-control"]
