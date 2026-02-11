@@ -7,7 +7,7 @@ const Blog = ({blog}) => {
         </div>
     );
 };
-
+//proptype is used to check are we receiving the correct data or data type correct or is required or not.
 Blog.propTypes = {
     blog:PropTypes.object.isRequired
 }
