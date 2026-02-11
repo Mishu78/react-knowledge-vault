@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 const Blog = ({blog}) => {
-    console.log(blog);
+ 
     return (
         <div>
             
@@ -8,6 +8,7 @@ const Blog = ({blog}) => {
     );
 };
 //proptype is used to check are we receiving the correct data or data type correct or is required or not.
+//proptype used in blog component because in this component a prop receiving as object .
 Blog.propTypes = {
     blog:PropTypes.object.isRequired
 }
