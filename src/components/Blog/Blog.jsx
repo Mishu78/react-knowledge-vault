@@ -1,9 +1,10 @@
 import PropTypes from 'prop-types';
 const Blog = ({blog}) => {
- const {title} = blog
+ const {title,cover} = blog
     return (
         <div>
             <h2 className="text-4xl">{title}</h2>
+           <img src={cover} alt="" />
         </div>
     );
 };
